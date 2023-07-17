@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi! I'm Calvin
+
+![Banner-Calvin](img/banner.png)
+[![Linkedin-Badge](https://img.shields.io/badge/calvinmontolalu-0a66c2?link=https://www.linkedin.com/in/calvinmontolalu&logoColor=white&logo=Linkedin)](https://www.linkedin.com/in/calvinmontolalu)
+[![Frontend-Mentor-Badge](https://img.shields.io/badge/calvincm-3F54A3?link=https://www.frontendmentor.io/profile/Calvin-C-M&logoColor=white&logo=Frontendmentor)](https://www.frontendmentor.io/profile/Calvin-C-M)
+[![Facebook-Badge](https://img.shields.io/badge/Calvin%20Montolalu-1877F2?link=https://www.facebook.com/ZukaLeikoCalvinDaffaValentino/&logoColor=white&logo=Facebook)](https://www.facebook.com/ZukaLeikoCalvinDaffaValentino/)
+[![HackerRank-Badge](https://img.shields.io/badge/Calvin_C_M-00EA64?link=https://www.hackerrank.com/Calvin_C_M&logoColor=white&logo=HackerRank)](https://www.hackerrank.com/Calvin_C_M)
 
 <!--
 **Calvin-C-M/Calvin-C-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
